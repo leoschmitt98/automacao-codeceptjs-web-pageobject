@@ -1,0 +1,18 @@
+{
+  "name": "automacao-codeceptjs-web-pageobject",
+  "version": "1.0.0",
+  "description": "projeto de automacao de testes para web com webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Schmitt",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.7.3",
+    "playwright": "^1.52.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0"
+  }
+}
